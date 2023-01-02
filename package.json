@@ -1,0 +1,22 @@
+{
+  "name": "229073_rohit",
+  "version": "1.0.0",
+  "description": "iacsd sdm exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitt03/229073_rohit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitt03/229073_rohit/issues"
+  },
+  "homepage": "https://github.com/rohitt03/229073_rohit#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
